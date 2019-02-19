@@ -1,0 +1,187 @@
+19 Feb 2019 14:51:40 GMT: Log 'EclipseCompiler.txt' opened: 19 Feb 2019 14:51:40 GMT with name \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\EclipseCompiler.txt
+19 Feb 2019 14:51:50 GMT: diagnostics = javax.tools.DiagnosticCollector@3d1451a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@53fa2aa5
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:51:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@485ed36a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:51:50 GMT: Compiler call returned
+19 Feb 2019 14:51:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@11a2fed5
+19 Feb 2019 14:51:50 GMT:  Kind = ERROR
+19 Feb 2019 14:51:50 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:52:24 GMT: diagnostics = javax.tools.DiagnosticCollector@39153092
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2c313871
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:52:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@97a7eca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:52:24 GMT: Compiler call returned
+19 Feb 2019 14:52:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@698b9a90
+19 Feb 2019 14:52:24 GMT:  Kind = ERROR
+19 Feb 2019 14:52:24 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:54:19 GMT: diagnostics = javax.tools.DiagnosticCollector@264b330a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2dcfda47
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:54:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@407fa3b8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:54:19 GMT: Compiler call returned
+19 Feb 2019 14:54:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@6ceb9c41
+19 Feb 2019 14:54:19 GMT:  Kind = ERROR
+19 Feb 2019 14:54:19 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:54:34 GMT: diagnostics = javax.tools.DiagnosticCollector@443c3d69
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7f515f9c
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:54:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@45a10aa2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:54:34 GMT: Compiler call returned
+19 Feb 2019 14:54:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@397192a2
+19 Feb 2019 14:54:34 GMT:  Kind = ERROR
+19 Feb 2019 14:54:34 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:54:34 GMT: diagnostics = javax.tools.DiagnosticCollector@410349b4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7259868b
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:54:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@70a982b5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:54:35 GMT: Compiler call returned
+19 Feb 2019 14:54:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@61e4b16
+19 Feb 2019 14:54:35 GMT:  Kind = ERROR
+19 Feb 2019 14:54:35 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:54:35 GMT: diagnostics = javax.tools.DiagnosticCollector@21a37679
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f263824
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:54:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@28ef339' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:54:35 GMT: Compiler call returned
+19 Feb 2019 14:54:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@24bc6c5c
+19 Feb 2019 14:54:35 GMT:  Kind = ERROR
+19 Feb 2019 14:54:35 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:54:35 GMT: diagnostics = javax.tools.DiagnosticCollector@187ec601
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cbff399
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:54:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5bd46312' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:54:35 GMT: Compiler call returned
+19 Feb 2019 14:54:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@711ebda3
+19 Feb 2019 14:54:35 GMT:  Kind = ERROR
+19 Feb 2019 14:54:35 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:54:35 GMT: diagnostics = javax.tools.DiagnosticCollector@4e5fb53f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8c62277
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:54:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@772005b3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:54:35 GMT: Compiler call returned
+19 Feb 2019 14:54:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@529f0ee8
+19 Feb 2019 14:54:35 GMT:  Kind = ERROR
+19 Feb 2019 14:54:35 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:55:01 GMT: Log 'EclipseCompiler.txt' opened: 19 Feb 2019 14:55:01 GMT with name \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\EclipseCompiler.txt
+19 Feb 2019 14:56:04 GMT: diagnostics = javax.tools.DiagnosticCollector@1c57a1f6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6b4778b6
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:56:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5257f27' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:56:04 GMT: Compiler call returned
+19 Feb 2019 14:56:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@25a0520a
+19 Feb 2019 14:56:04 GMT:  Kind = ERROR
+19 Feb 2019 14:56:04 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:56:29 GMT: diagnostics = javax.tools.DiagnosticCollector@55b0f2cb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@563abc1
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:56:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@55a9f26d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:56:30 GMT: Compiler call returned
+19 Feb 2019 14:56:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@6ca058d3
+19 Feb 2019 14:56:30 GMT:  Kind = ERROR
+19 Feb 2019 14:56:30 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:56:30 GMT: diagnostics = javax.tools.DiagnosticCollector@6f827875
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7d1e4e79
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:56:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c790d4b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:56:30 GMT: Compiler call returned
+19 Feb 2019 14:56:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@7441784e
+19 Feb 2019 14:56:30 GMT:  Kind = ERROR
+19 Feb 2019 14:56:30 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:56:31 GMT: diagnostics = javax.tools.DiagnosticCollector@4e06a309
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4ee417d1
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:56:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@243cfc52' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:56:31 GMT: Compiler call returned
+19 Feb 2019 14:56:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@4fb44daa
+19 Feb 2019 14:56:31 GMT:  Kind = ERROR
+19 Feb 2019 14:56:31 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:56:31 GMT: diagnostics = javax.tools.DiagnosticCollector@4fce17a0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5e2fc445
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:56:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6af3cb5a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:56:31 GMT: Compiler call returned
+19 Feb 2019 14:56:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@4db6b2b6
+19 Feb 2019 14:56:31 GMT:  Kind = ERROR
+19 Feb 2019 14:56:31 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:56:31 GMT: diagnostics = javax.tools.DiagnosticCollector@309eb35a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@408c7f48
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:56:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ce8cc14' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:56:31 GMT: Compiler call returned
+19 Feb 2019 14:56:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@7efde023
+19 Feb 2019 14:56:31 GMT:  Kind = ERROR
+19 Feb 2019 14:56:31 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:56:32 GMT: diagnostics = javax.tools.DiagnosticCollector@12e35c39
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6492fdf6
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 14:56:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@344e409a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:56:32 GMT: Compiler call returned
+19 Feb 2019 14:56:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@296ff24c
+19 Feb 2019 14:56:32 GMT:  Kind = ERROR
+19 Feb 2019 14:56:32 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:56:55 GMT: diagnostics = javax.tools.DiagnosticCollector@493c1efa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@182f7e9d
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java, \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java]
+19 Feb 2019 14:56:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@553929fe' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;\\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:56:55 GMT: Compiler call returned
+19 Feb 2019 14:56:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@6a46b2a6
+19 Feb 2019 14:56:55 GMT:  Kind = ERROR
+19 Feb 2019 14:56:55 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:57:19 GMT: diagnostics = javax.tools.DiagnosticCollector@27600f01
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2bc4b550
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java]
+19 Feb 2019 14:57:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c33c060' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:57:19 GMT: Compiler call returned
+19 Feb 2019 14:57:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@581eb137
+19 Feb 2019 14:57:19 GMT:  Kind = ERROR
+19 Feb 2019 14:57:19 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:57:20 GMT: diagnostics = javax.tools.DiagnosticCollector@7b2d8618
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@40339de5
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java]
+19 Feb 2019 14:57:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@71d0a0d2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:57:20 GMT: Compiler call returned
+19 Feb 2019 14:57:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@3625d20c
+19 Feb 2019 14:57:20 GMT:  Kind = ERROR
+19 Feb 2019 14:57:20 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:57:20 GMT: diagnostics = javax.tools.DiagnosticCollector@5909eebc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3cc66e32
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java]
+19 Feb 2019 14:57:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ea3271' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:57:20 GMT: Compiler call returned
+19 Feb 2019 14:57:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@2e12168d
+19 Feb 2019 14:57:20 GMT:  Kind = ERROR
+19 Feb 2019 14:57:20 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:57:20 GMT: diagnostics = javax.tools.DiagnosticCollector@65c3947d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@71f5e2e6
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java]
+19 Feb 2019 14:57:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6bbbc185' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:57:20 GMT: Compiler call returned
+19 Feb 2019 14:57:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@842b65
+19 Feb 2019 14:57:20 GMT:  Kind = ERROR
+19 Feb 2019 14:57:20 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:57:20 GMT: diagnostics = javax.tools.DiagnosticCollector@7199e28a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@45c84667
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java]
+19 Feb 2019 14:57:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@57d64aaf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:57:20 GMT: Compiler call returned
+19 Feb 2019 14:57:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@d88b09
+19 Feb 2019 14:57:20 GMT:  Kind = ERROR
+19 Feb 2019 14:57:20 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:57:21 GMT: diagnostics = javax.tools.DiagnosticCollector@45996bf8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a85ba5a
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java]
+19 Feb 2019 14:57:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@719c4c29' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 14:57:21 GMT: Compiler call returned
+19 Feb 2019 14:57:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@49d40d63
+19 Feb 2019 14:57:21 GMT:  Kind = ERROR
+19 Feb 2019 14:57:21 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\hello-world-DinokHind\HelloWorld.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+19 Feb 2019 14:58:02 GMT: Log 'EclipseCompiler.txt' opened: 19 Feb 2019 14:58:02 GMT with name \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\EclipseCompiler.txt
+19 Feb 2019 15:02:27 GMT: diagnostics = javax.tools.DiagnosticCollector@49efe05b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@216728de
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java]
+19 Feb 2019 15:02:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7c4948b3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+19 Feb 2019 15:02:27 GMT: Compiler call returned
+19 Feb 2019 15:02:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@7b3b7e92
+19 Feb 2019 15:02:27 GMT:  Kind = ERROR
+19 Feb 2019 15:02:27 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\guessing-game-DinokHind\GuessingGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
